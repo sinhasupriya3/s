@@ -1,2 +1,2 @@
 # s
-demo repository 
+demo repository .
